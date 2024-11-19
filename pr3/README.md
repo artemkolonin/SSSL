@@ -30,7 +30,7 @@
 
 ![image](https://github.com/user-attachments/assets/e51bb3f3-6d98-4fc0-adba-3338c7606a83)
 
-Также настраиваем на агенте выявление уязвимостей, скрытых процессов, SQL-инъекций, wev shell атак
+Также настраиваем на агенте выявление уязвимостей, скрытых процессов, SQL-инъекций, web shell атак
 
 ![image](https://github.com/user-attachments/assets/eb215e58-67fd-4a5b-bae2-3f6891eff598)
 
@@ -38,7 +38,7 @@
 
 ![image](https://github.com/user-attachments/assets/614ce93b-95b6-4406-b11d-5f8142cfdcd9)
 
-Выявление уязвимостей
+Теперь можно проверить работу Wazuh. Выявление уязвимостей
 
 ![image](https://github.com/user-attachments/assets/16c1ff10-5e6c-4060-b02d-6d2a1047758d)
 
